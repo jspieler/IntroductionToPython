@@ -1,0 +1,23 @@
+[
+    {
+      "type": "car",
+      "mass": 1500,
+      "drag_coefficient": 0.31,
+      "cross_sectional_area": 1.97,
+      "rolling_resistance_coefficient": 0.015
+    },
+    {
+      "type": "truck",
+      "mass": 6500,
+      "drag_coefficient": 0.8,
+      "cross_sectional_area": 6.5,
+      "rolling_resistance_coefficient": 0.013
+    },
+    {
+      "typo": "motorcycle",
+      "mass": 200,
+      "drag_coefficient": 0.57,
+      "cross_sectional_area": 0.79,
+      "rolling_resistance_coefficient": 0.015
+    }
+]
