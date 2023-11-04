@@ -1,0 +1,6 @@
+drag_coefficient: 0.31  # unit: [-]
+cross_sectional_area: 1.97  # unit: [m^2]
+density_air: 1.2014  # unit: [kg/m^3]
+rolling_resistance_coefficient: 0.013  # unit: [-]
+vehicle_mass: 1000  # unit: [kg]
+maximum_power_engine: 75  # unit [kW]
