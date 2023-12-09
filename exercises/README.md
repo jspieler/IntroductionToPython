@@ -10,3 +10,4 @@ To get the respective password, answer the following questions:
 
 1. Which document is considered the central style guide for Python? (capital letters, no spaces)
 2. How is the construct called which provides a concise way to create lists, dictionaries or sets? (lower case)
+3. How are special methods like the constructor called in Python? (lower case, underscores between words)
